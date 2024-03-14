@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Wed Mar 13 23:20:16 2024
+# Process ID: 3148
+# Current directory: C:/Users/minea/Desktop/ALUv4/ALUv4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19612 C:\Users\minea\Desktop\ALUv4\ALUv4\ALUv4.xpr
+# Log file: C:/Users/minea/Desktop/ALUv4/ALUv4/vivado.log
+# Journal file: C:/Users/minea/Desktop/ALUv4/ALUv4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/minea/Desktop/ALUv4/ALUv4/ALUv4.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Facultate/ED/ALUv4 - Copy' since last save.
+WARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'C:/Users/minea/Desktop/ALUv4/ALUv4/ALUv4.gen/sources_1', nor could it be found using path 'C:/Facultate/ED/ALUv4 - Copy/ALUv4.gen/sources_1'.
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name EnableResourceEstimation
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name SimCompileState
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name LocalIPRepoLeafDirName
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/minea/Users/alexa/OneDrive/Documents/Downloads/Basys3_Master.xdc', nor could it be found using path 'C:/Users/alexa/OneDrive/Documents/Downloads/Basys3_Master.xdc'.
+ERROR: [Runs 36-378] The checkpoint 'C:/Users/minea/Desktop/ALUv4/ALUv4/ALUv4.srcs/utils_1/imports/synth_1/ALUv4.dcp' was created with 'Vivado v2022.2 (64-bit)', and cannot be opened in this version.
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Mar 13 23:21:26 2024...
